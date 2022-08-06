@@ -4,7 +4,7 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs),front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs),front-end development (React,HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/akhilprakashdeveloper/count.svg)
